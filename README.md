@@ -1,12 +1,12 @@
 ## 👋 Hello，我是tianxiao
-> 一名在职数据开发工程师，主攻ETL数据处理、关系型数据库、缓存中间件
+> 一名在职数据开发工程师，主攻ETL数据处理、数据开发、关系型数据库、缓存中间件
 
 ### 🛠️ 技术栈
-- 后端语言：Java
-- 数据库：OceanBase、MySQL、SQL优化
-- 数据同步工具：Kettle、数据清洗、离线ETL流程开发
-- 中间件：Redis，缓存设计、实战Demo
-- 工具链：Shell、Git、Linux基础运维
+- 后端语言：Java、Python
+- 数据库：OceanBase、Hadoop、MySQL、obclient、DMS、SQL优化
+- 数据同步工具：Kettle、Datagrip、obloader、PL/SQL、数据清洗、离线ETL流程开发、Sqoop、Azkaban
+- 中间件：Redis、Rabbitmq、Nginx、缓存设计、实战Demo
+- 工具链：Shell、Git、Linux基础运维、ossutil、moia、finabi
 
 ### 📂 我的开源仓库
 |仓库名称|用途说明|
